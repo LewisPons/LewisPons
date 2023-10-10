@@ -10,21 +10,14 @@ I am Luis Morales! An experienced data professional with a background in Actuari
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
-- Check out my latest [ML project](https://lewispons-music-recommendation-app-app-v7zlq6.streamlit.app/)
-- 👨🏽‍💻 I’m currently working on Data engineering Stuff:;
-- 🌱 I’m currently learning ML & AI techniques; 
+- Check out my latest ML Projects:
+  - [Music Recommender System](https://lewispons-music-recommendation-app-app-v7zlq6.streamlit.app/)
+  - [NLP Papers Recommender](https://huggingface.co/spaces/lewispons/GrammarGuru)
+- 👨🏽‍💻 I’m currently working on end-to-end Data Stuff:;
+- 🌱 Always learning about ML/AI and new data techs; 
 - 📫 How to reach me: [Luis Morales](morales_ponce@hotmail.com);
-- 📝 [Resume](https://drive.google.com/file/d/1-UqV1PPSP3B5axPV0rW1rX113HNmRm_N/view?usp=sharing)
 
 **Languages and Tools:**  
 - Python
 - R
 - SQL
-
-**Data Stack:**  
-- Pyspark
-- Apache Airflow
-- Apache Kafka
-- Apache Beam
-- AWS
-- GCP
